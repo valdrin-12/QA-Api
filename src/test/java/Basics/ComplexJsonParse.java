@@ -36,8 +36,6 @@ public class ComplexJsonParse {
                 System.out.println(copies);
                 break;
             }
-
         }
-
     }
 }
