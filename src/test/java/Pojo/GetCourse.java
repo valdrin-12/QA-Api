@@ -42,7 +42,7 @@ public class GetCourse {
 
     public String getLinkedIn() {
         return linkedIn;
-    }
+    }//comment
 
     public void setLinkedIn(String linkedIn) {
         this.linkedIn = linkedIn;
