@@ -10,7 +10,7 @@ public class GetCourse {
    private String linkedIn;
     public String getUrl() {
         return url;
-    }
+    }//get Url @getcourse
 
     public void setUrl(String url) {
         this.url = url;
