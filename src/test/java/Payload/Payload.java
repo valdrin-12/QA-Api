@@ -17,7 +17,7 @@ public class Payload {
                 "  ],\n" +
                 "  \"website\": \"http://rahulshettyacademy.com\",\n" +
                 "  \"language\": \"French-IN\"\n" +
-                "}";
+                "}";//add
     }
     public static String CoursePrice()
     {
