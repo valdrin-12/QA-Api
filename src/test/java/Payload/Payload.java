@@ -18,7 +18,7 @@ public class Payload {
                 "  \"website\": \"http://rahulshettyacademy.com\",\n" +
                 "  \"language\": \"French-IN\"\n" +
                 "}";//this is an add function
-    }
+    }//testing
     public static String CoursePrice()
     {
 
