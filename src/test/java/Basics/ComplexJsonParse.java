@@ -11,7 +11,7 @@ public class ComplexJsonParse {
     public static void main(String[] args) {
         //add 33
 //add commeent
-//print number of courses
+//print number of courses 3333333
         JsonPath js=new JsonPath(Payload.CoursePrice());
         int count= js.getInt("courses.size()");
         System.out.println(count); // 4
