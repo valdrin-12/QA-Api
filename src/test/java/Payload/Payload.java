@@ -1,5 +1,8 @@
 package Payload;
-
+//Payload Java Test
+//Payload Java 11
+//12
+//11
 public class Payload {
     public static String addPlace() {
         return "{\n" +
@@ -18,7 +21,7 @@ public class Payload {
                 "  \"website\": \"http://rahulshettyacademy.com\",\n" +
                 "  \"language\": \"French-IN\"\n" +
                 "}";//this is an add function
-    }
+    }//testing
     public static String CoursePrice()
     {
 
