@@ -3,7 +3,6 @@ package Payload;
 //Payload Java 11
 //12
 //11
-//333
 
 public class Payload {
     public static String addPlace() {
