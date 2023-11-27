@@ -5,12 +5,11 @@ import com.fasterxml.jackson.annotation.JsonAlias;
 
 import io.restassured.path.json.JsonPath;
 
-import java.sql.SQLOutput;
+import java.sql.SQLOutput;//ComplexJson comment
 
 public class ComplexJsonParse {
     public static void main(String[] args) {
-//add 2 comment
-//print number of courses
+
         JsonPath js=new JsonPath(Payload.CoursePrice());
         int count= js.getInt("courses.size()");
         System.out.println(count); // 4
