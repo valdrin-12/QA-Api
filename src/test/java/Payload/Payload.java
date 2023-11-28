@@ -3,6 +3,7 @@ package Payload;
 //Payload Java 11
 //12
 //11
+//pojo
 
 
 public class Payload {
