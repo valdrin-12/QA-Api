@@ -19,6 +19,7 @@ public class Basics {
                 .header("Content-Type", "application/json")
                 .body(Payload.addPlace())
                 .when()
+
                 .post("maps/api/place/add/json")
                 .then()
                 .log().all()

@@ -24,8 +24,8 @@ import Pojo.GetCourse;
 import Pojo.WebAutomation;
 
 public class oAuthTest {
-    public oAuthTest() {
-    }
+//    public oAuthTest() {
+//    }
 
     public static void main(String[] args) throws InterruptedException {
         String[] courseTitles = new String[]{"Selenium Webdriver Java", "Cypress", "Protractor"};

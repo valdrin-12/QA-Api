@@ -4,6 +4,7 @@ package Payload;
 //12
 //11
 public class Payload {
+
     public static String addPlace() {
         return "{\n" +
                 "  \"location\": {\n" +
