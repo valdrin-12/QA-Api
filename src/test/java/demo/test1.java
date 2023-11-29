@@ -30,6 +30,7 @@ public class test1 {
 
         WebDriver driver= new ChromeDriver();
          driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+         //l
        // driver.get("https://accounts.google.com/o/oauth2/v2/auth?scope=https://www.googleapis.com/auth/userinfo.email&auth_url=https://accounts.google.com/o/oauth2/v2/auth&client_id=692183103107-p0m7ent2hk7suguv4vq22hjcfhcr43pj.apps.googleusercontent.com&response_type=code&redirect_uri=https://rahulshettyacademy.com/getCourse.php&state=verifyfjdss");
 
         driver.findElement(By.cssSelector("[type='email']")).sendKeys("dfsf");
